@@ -10,12 +10,13 @@ A Pomodoro and deep work tracker built with Java Swing. Designed around two focu
 
 | Timer | Tasks | Stats |
 |-------|-------|-------|
-| ![Timer](Screenshots/timer.png) | ![Tasks](Screenshots/tasks.png) | ![Stats](screenshots/stats.png) |
+| ![Timer](Screenshots/timer.png) | ![Tasks](Screenshots/tasks.png) | ![Stats](Screenshots/stats.png) |
 
 | Badges | Weekly Report |
 |--------|---------------|
 | ![Badges](Screenshots/badges.png) | ![Report](Screenshots/report.png) |
 
+<img width="1186" height="813" alt="Image" src="https://github.com/user-attachments/assets/5634b69a-2b29-4d86-962c-7e22f5a227ad" />
 ---
 
 ## Features
