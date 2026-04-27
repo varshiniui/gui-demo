@@ -1,5 +1,8 @@
 pipeline {
     agent any
+    tools {
+        maven 'maven'
+    }
 
     stages {
 
@@ -19,11 +22,10 @@ pipeline {
             steps {
                 bat 'mvn test'
             }
-        }
-
-        stage('Archive Test Results') {
-            steps {
-                junit 'target/surefire-reports/*.xml'
+            post {
+                always {
+                    junit 'target/surefire-reports/*.xml'
+                }
             }
         }
 
