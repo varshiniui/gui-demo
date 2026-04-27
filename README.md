@@ -1,6 +1,6 @@
 # FlowState
 
-A Pomodoro and deep work tracker built with Java Swing. Designed around two focus modes, session tracking, and a fully animated UI — built from scratch using Graphics2D with no external UI frameworks.
+A Pomodoro and deep work tracker built with Java Swing. Designed around two focus modes, session tracking, and a fully animated UI built from scratch using Graphics2D with no external UI frameworks.
 
 > "stay in the current"
 
